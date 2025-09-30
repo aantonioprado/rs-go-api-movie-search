@@ -18,7 +18,8 @@ func main() {
 }
 
 func run() error {
-	handler := api.NewHandler()
+	apiKey := os.Getenv("APIKEY_OMDB")
+	handler := api.NewHandler(apiKey)
 
 	s := http.Server{
 		Addr:         ":8080",
