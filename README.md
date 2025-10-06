@@ -1,4 +1,4 @@
-# rs-go-api-movie-search
+# API Movie Search
 
 API desenvolvida durante o curso de **Go da Rocketseat**, com o objetivo de praticar conceitos de rotas, requisições HTTP e consumo de APIs externas.
 
