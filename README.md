@@ -12,8 +12,7 @@ O projeto faz integração com a **OMDb API**, permitindo buscar filmes por tít
 ## ⚙️ Funcionalidades
 
 - Buscar filmes por título  
-- Obter detalhes de um filme específico  
-- Endpoint de healthcheck
+- Obter detalhes de um filme específico
 
 ## 💡 Sobre o projeto
 
